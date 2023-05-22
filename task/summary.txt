@@ -1,7 +1,0 @@
-Cleaned up: 
-
-There has been significant progress with Chad GPT as compared to GPT-4. If one has experimented with Chad GPT and is not yet convinced, it is encouraged not to give up. GPT-4 is intelligent enough to use tools when provided with suggestions. For example, if one asks GPT-4 to improve their drawings, it could suggest using a diffusion model tool available on a website. This could potentially lead to many opportunities. 
-
-Summary:
-
-There has been notable progress with Chad GPT compared to GPT-4. GPT-4 can use tools to improve its responses, offering numerous possibilities.
