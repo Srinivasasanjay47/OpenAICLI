@@ -1,0 +1,7 @@
+Cleaned up: 
+
+The speaker talks about the progress made in GPT models and emphasizes the difference between Chad GPT and GPT-4. He encourages those who were not convinced by Chad GPT to keep exploring. He mentions that GPT-4 is intelligent enough to use tools, and users can ask it to improve its drawings using diffusion models. The speaker hints at the potential of GPT-4 if it is allowed to use tools.
+
+Summary: 
+
+The speaker discusses the progress made in GPT models, emphasizing the potential of GPT-4 if it is allowed to use tools. He encourages people to keep exploring and mentions that GPT-4 can improve its drawings using diffusion models.
